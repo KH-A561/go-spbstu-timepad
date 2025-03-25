@@ -1,0 +1,1766 @@
+{
+  "faculty": {
+    "id": 124,
+    "name": "Физико-механический институт",
+    "abbr": "ФизМех"
+  },
+  "data": {
+    "124": [
+      {
+        "id": 38970,
+        "name": "5030301/00102_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40358,
+        "name": "5030103/20101",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38819,
+        "name": "5030302/30004_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40341,
+        "name": "5040103/30101",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40297,
+        "name": "5030103/40003",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38937,
+        "name": "5030102/10101_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40344,
+        "name": "5040103/30401",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40322,
+        "name": "5030102/30002",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38815,
+        "name": "5030301/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40343,
+        "name": "5040103/30301",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40367,
+        "name": "5030302/20801",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38894,
+        "name": "5031503/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40354,
+        "name": "5030102/20101",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38902,
+        "name": "5040103/20601_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38896,
+        "name": "5040102/20101_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38807,
+        "name": "5030102/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40350,
+        "name": "5040302/30901",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38830,
+        "name": "5040103/30601_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38825,
+        "name": "5040102/30201_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38880,
+        "name": "5030102/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38948,
+        "name": "5030302/10501_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40363,
+        "name": "5030301/20102",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38974,
+        "name": "5030302/00801_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38963,
+        "name": "5030102/00201_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40298,
+        "name": "5030103/40004",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40360,
+        "name": "5030103/20301",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38908,
+        "name": "5041503/20101_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38946,
+        "name": "5030301/10102_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40339,
+        "name": "5040102/30101",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40355,
+        "name": "5030102/20201",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38886,
+        "name": "5030301/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38967,
+        "name": "5030103/00301_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40366,
+        "name": "5030302/20502",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38944,
+        "name": "5030103/10302_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38966,
+        "name": "5030103/00201_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40328,
+        "name": "5030103/30004",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40379,
+        "name": "5030301/10102",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40295,
+        "name": "5030103/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40296,
+        "name": "5030103/40002",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40347,
+        "name": "5040301/30401",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38965,
+        "name": "5030103/00101_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38818,
+        "name": "5030302/30003_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38814,
+        "name": "5030301/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38834,
+        "name": "5040302/30301_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40300,
+        "name": "5030301/40002",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38887,
+        "name": "5030301/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40329,
+        "name": "5030301/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38892,
+        "name": "5030302/20005_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39374,
+        "name": "5030102/30004_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40378,
+        "name": "5030301/10101",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38839,
+        "name": "5041503/30601_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40312,
+        "name": "5040103/40401",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40361,
+        "name": "5030103/20302",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40334,
+        "name": "5030302/30004",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40368,
+        "name": "5031503/20301",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40340,
+        "name": "5040102/30201",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40337,
+        "name": "5031503/30002",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40324,
+        "name": "5030102/30004",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38884,
+        "name": "5030103/20003_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40304,
+        "name": "5030302/40004",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40345,
+        "name": "5040103/30601",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38885,
+        "name": "5030103/20004_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38812,
+        "name": "5030103/30003_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38976,
+        "name": "5031503/00302_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38897,
+        "name": "5040102/20201_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38879,
+        "name": "5030102/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38809,
+        "name": "5030102/30003_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38962,
+        "name": "5030102/00101_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40376,
+        "name": "5030103/10301",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38832,
+        "name": "5040301/30401_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40357,
+        "name": "5030102/20401",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38882,
+        "name": "5030103/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38835,
+        "name": "5040302/30901_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38907,
+        "name": "5040302/21001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40331,
+        "name": "5030302/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40372,
+        "name": "5030102/10201",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40313,
+        "name": "5040103/40601",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38883,
+        "name": "5030103/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40351,
+        "name": "5040302/31001",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38903,
+        "name": "5040301/20201_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38888,
+        "name": "5030302/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40315,
+        "name": "5040301/40501",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40307,
+        "name": "5031503/40003",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38977,
+        "name": "5031503/00401_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38945,
+        "name": "5030301/10101_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40320,
+        "name": "5030302/40005",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38833,
+        "name": "5040301/30501_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38910,
+        "name": "5041503/20801_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38881,
+        "name": "5030102/20003_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40305,
+        "name": "5031503/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38895,
+        "name": "5031503/20003_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38906,
+        "name": "5040302/20901_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40364,
+        "name": "5030302/20101",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40302,
+        "name": "5030302/40002",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38909,
+        "name": "5041503/20601_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38829,
+        "name": "5040103/30401_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38969,
+        "name": "5030301/00101_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38904,
+        "name": "5040301/20401_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38828,
+        "name": "5040103/30301_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40333,
+        "name": "5030302/30003",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40381,
+        "name": "5030302/10501",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40348,
+        "name": "5040301/30501",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40310,
+        "name": "5040103/40101",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38975,
+        "name": "5031503/00301_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38889,
+        "name": "5030302/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38822,
+        "name": "5031503/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40309,
+        "name": "5040102/40201",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38838,
+        "name": "5041503/30101_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38964,
+        "name": "5030102/00401_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38898,
+        "name": "5040103/20101_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40362,
+        "name": "5030301/20101",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38826,
+        "name": "5040103/30101_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40294,
+        "name": "5030102/40004",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38808,
+        "name": "5030102/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40308,
+        "name": "5040102/40101",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38943,
+        "name": "5030103/10301_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38831,
+        "name": "5040301/30201_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40385,
+        "name": "5031503/10302",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40325,
+        "name": "5030103/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38901,
+        "name": "5040103/20401_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38947,
+        "name": "5030302/10101_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40353,
+        "name": "5041503/30601",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40369,
+        "name": "5031503/20302",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40352,
+        "name": "5041503/30101",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38953,
+        "name": "5031503/10401_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40371,
+        "name": "5030102/10101",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38816,
+        "name": "5030302/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40292,
+        "name": "5030102/40002",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40321,
+        "name": "5030102/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38824,
+        "name": "5040102/30101_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38890,
+        "name": "5030302/20003_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38971,
+        "name": "5030302/00101_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40306,
+        "name": "5031503/40002",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38952,
+        "name": "5031503/10302_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40301,
+        "name": "5030302/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38836,
+        "name": "5040302/31001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40370,
+        "name": "5031503/20401",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38813,
+        "name": "5030103/30004_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40349,
+        "name": "5040302/30301",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40311,
+        "name": "5040103/40301",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40323,
+        "name": "5030102/30003",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40336,
+        "name": "5031503/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38900,
+        "name": "5040103/20301_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40314,
+        "name": "5040301/40201",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38817,
+        "name": "5030302/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40384,
+        "name": "5031503/10301",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38810,
+        "name": "5030103/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40365,
+        "name": "5030302/20501",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40303,
+        "name": "5030302/40003",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40380,
+        "name": "5030302/10101",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40317,
+        "name": "5040302/41001",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40374,
+        "name": "5030103/10101",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40375,
+        "name": "5030103/10201",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40330,
+        "name": "5030301/30002",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38820,
+        "name": "5030302/30005_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40299,
+        "name": "5030301/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40346,
+        "name": "5040301/30201",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40377,
+        "name": "5030103/10302",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40342,
+        "name": "5040103/30201",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38821,
+        "name": "5031503/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40382,
+        "name": "5030302/10502",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40383,
+        "name": "5030302/10801",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38837,
+        "name": "5040302/31101_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38899,
+        "name": "5040103/20201_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40327,
+        "name": "5030103/30003",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38938,
+        "name": "5030102/10201_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38942,
+        "name": "5030103/10201_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38968,
+        "name": "5030103/00302_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38891,
+        "name": "5030302/20004_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40335,
+        "name": "5030302/30005",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38827,
+        "name": "5040103/30201_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40293,
+        "name": "5030102/40003",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40332,
+        "name": "5030302/30002",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38939,
+        "name": "5030102/10202_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38941,
+        "name": "5030103/10101_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38811,
+        "name": "5030103/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38972,
+        "name": "5030302/00201_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38905,
+        "name": "5040302/20301_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38973,
+        "name": "5030302/00501_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38940,
+        "name": "5030102/10401_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38949,
+        "name": "5030302/10502_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40373,
+        "name": "5030102/10401",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38951,
+        "name": "5031503/10301_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40326,
+        "name": "5030103/30002",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40291,
+        "name": "5030102/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40318,
+        "name": "5041503/40101",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40386,
+        "name": "5031503/10401",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40316,
+        "name": "5040302/40301",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40338,
+        "name": "5031503/30003",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38823,
+        "name": "5031503/30003_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38950,
+        "name": "5030302/10801_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40356,
+        "name": "5030102/20202",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40359,
+        "name": "5030103/20201",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40319,
+        "name": "5041503/40601",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38893,
+        "name": "5031503/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      }
+    ]
+  }
+}
