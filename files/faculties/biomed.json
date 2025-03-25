@@ -1,0 +1,1262 @@
+{
+  "faculty": {
+    "id": 119,
+    "name": "Институт биомедицинских систем и биотехнологий",
+    "abbr": "ИБСиБ"
+  },
+  "data": {
+    "119": [
+      {
+        "id": 37997,
+        "name": "4741201/20501_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40175,
+        "name": "4741905/40101",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41469,
+        "name": "з4741904/30101",
+        "level": 2,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40167,
+        "name": "4741204/40101",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39651,
+        "name": "з4731904/00101_2023",
+        "level": 5,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38002,
+        "name": "4741601/21301_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38005,
+        "name": "4741904/20101_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41347,
+        "name": "з4741904/40401",
+        "level": 1,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40193,
+        "name": "4741905/30101",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37951,
+        "name": "4731901/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38007,
+        "name": "4741904/20501_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40180,
+        "name": "4731901/30002",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38034,
+        "name": "4731904/10401_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40195,
+        "name": "4731204/20102",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37954,
+        "name": "4731904/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41353,
+        "name": "з4741905/40101",
+        "level": 1,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38357,
+        "name": "4731204/20003_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37961,
+        "name": "4741901/30101_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40176,
+        "name": "4750601/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 2,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41501,
+        "name": "з4731904/10401",
+        "level": 4,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37991,
+        "name": "4731204/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38053,
+        "name": "4731904/00402_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40202,
+        "name": "4731204/10201",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41282,
+        "name": "4731204/30003",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37992,
+        "name": "4731204/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37958,
+        "name": "4741204/30301_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41428,
+        "name": "з4731904/20430",
+        "level": 3,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39675,
+        "name": "з4731901/30030_2023",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38003,
+        "name": "4741901/20101_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40201,
+        "name": "4731204/10102",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40174,
+        "name": "4741904/40401",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38284,
+        "name": "4750605/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 2,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39565,
+        "name": "з4741904/20401_2023",
+        "level": 3,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40194,
+        "name": "4731204/20101",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37952,
+        "name": "4731903/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39561,
+        "name": "з4731901/10330_2023",
+        "level": 4,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40200,
+        "name": "4731204/10101",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40169,
+        "name": "4741204/40301",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40181,
+        "name": "4731903/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40199,
+        "name": "4731904/20401",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40179,
+        "name": "4731901/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38031,
+        "name": "4731204/10102_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39496,
+        "name": "з4741904/30401_2023",
+        "level": 2,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41498,
+        "name": "з4731901/30001",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39497,
+        "name": "з4731901/90101_2023",
+        "level": 6,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38030,
+        "name": "4731204/10201_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37955,
+        "name": "4741201/30501_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40172,
+        "name": "4741901/40101",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39562,
+        "name": "з4731904/10430_2023",
+        "level": 4,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41363,
+        "name": "з4731901/40001",
+        "level": 1,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37960,
+        "name": "4741601/31301_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39498,
+        "name": "з4731904/90101_2023",
+        "level": 6,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37962,
+        "name": "4741901/30201_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39669,
+        "name": "з4731901/00301_2023",
+        "level": 5,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41429,
+        "name": "з4731901/30030",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37965,
+        "name": "4741905/30101_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38048,
+        "name": "4731204/00101_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40184,
+        "name": "4741204/30101",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41346,
+        "name": "з4741901/40101",
+        "level": 1,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41366,
+        "name": "з4731904/00101",
+        "level": 5,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38358,
+        "name": "в4731904/90101_2023",
+        "level": 6,
+        "type": "evening",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38004,
+        "name": "4741901/20201_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40178,
+        "name": "4731204/30002",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40185,
+        "name": "4741204/30201",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40203,
+        "name": "4731901/10301",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40197,
+        "name": "4731901/20301",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40198,
+        "name": "4731901/20302",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40166,
+        "name": "4741201/40501",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40186,
+        "name": "4741204/30301",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40192,
+        "name": "4741904/30501",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39492,
+        "name": "з4731901/30001_2023",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39564,
+        "name": "з4741904/20101_2023",
+        "level": 3,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38033,
+        "name": "4731901/10302_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38032,
+        "name": "4731901/10301_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39494,
+        "name": "з4741901/30101_2023",
+        "level": 2,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38052,
+        "name": "4731904/00401_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37966,
+        "name": "4750601/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 2,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40206,
+        "name": "4731904/10402",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38000,
+        "name": "4741204/20301_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38001,
+        "name": "4741601/21001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38049,
+        "name": "4731204/00102_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37949,
+        "name": "4731204/30002_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38006,
+        "name": "4741904/20401_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40205,
+        "name": "4731904/10401",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37993,
+        "name": "4731901/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38050,
+        "name": "4731901/00301_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41365,
+        "name": "з4731901/00301",
+        "level": 5,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41470,
+        "name": "з4741904/30401",
+        "level": 2,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41364,
+        "name": "з4731904/40001",
+        "level": 1,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39647,
+        "name": "з4731904/20001_2023",
+        "level": 3,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37996,
+        "name": "4731904/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39563,
+        "name": "з4741901/20101_2023",
+        "level": 3,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40188,
+        "name": "4741601/31301",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40183,
+        "name": "4741201/30501",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37956,
+        "name": "4741204/30101_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41427,
+        "name": "з4731904/20401",
+        "level": 3,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40160,
+        "name": "4731204/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37994,
+        "name": "4731901/20002_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41499,
+        "name": "з4731904/30001",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37963,
+        "name": "4741904/30401_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40182,
+        "name": "4731904/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41430,
+        "name": "з4731904/30030",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40168,
+        "name": "4741204/40201",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37959,
+        "name": "4741601/31001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37999,
+        "name": "4741204/20201_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38029,
+        "name": "4731204/10101_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39650,
+        "name": "з4731904/10401_2023",
+        "level": 4,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40165,
+        "name": "4731904/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40173,
+        "name": "4741901/40201",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40162,
+        "name": "4731901/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38008,
+        "name": "4741905/20101_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37953,
+        "name": "4731904/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37948,
+        "name": "4731204/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40187,
+        "name": "4741601/31001",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40163,
+        "name": "4731901/40002",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37998,
+        "name": "4741204/20101_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40170,
+        "name": "4741601/41001",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38051,
+        "name": "4731901/00302_2023",
+        "level": 5,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40204,
+        "name": "4731901/10302",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37995,
+        "name": "4731904/20001_2023",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39493,
+        "name": "з4731904/30001_2023",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37964,
+        "name": "4741904/30501_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37957,
+        "name": "4741204/30201_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40190,
+        "name": "4741901/30201",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39495,
+        "name": "з4741904/30101_2023",
+        "level": 2,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39676,
+        "name": "з4731904/30030_2023",
+        "level": 2,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41468,
+        "name": "з4741901/30101",
+        "level": 2,
+        "type": "distance",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40161,
+        "name": "4731204/40002",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40177,
+        "name": "4731204/30001",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39648,
+        "name": "з4731904/20030_2023",
+        "level": 3,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40196,
+        "name": "4731204/20201",
+        "level": 3,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40171,
+        "name": "4741601/41301",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 38035,
+        "name": "4731904/10402_2023",
+        "level": 4,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40164,
+        "name": "4731903/40001",
+        "level": 1,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 39649,
+        "name": "з4731901/10301_2023",
+        "level": 4,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 37950,
+        "name": "4731901/30001_2023",
+        "level": 2,
+        "type": "common",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40191,
+        "name": "4741904/30401",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41500,
+        "name": "з4731901/10301",
+        "level": 4,
+        "type": "distance",
+        "kind": 0,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40189,
+        "name": "4741901/30101",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      }
+    ]
+  }
+}

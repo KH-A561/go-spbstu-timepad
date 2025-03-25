@@ -1,0 +1,191 @@
+{
+  "faculty": {
+    "id": 126,
+    "name": "Передовая инженерная школа \"Цифровой инжиниринг\"",
+    "abbr": "ПИШ ЦИ"
+  },
+  "data": {
+    "126": [
+      {
+        "id": 40211,
+        "name": "5341503/41201",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40219,
+        "name": "5341503/30701",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40220,
+        "name": "5341503/30702",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40225,
+        "name": "5342706/30501",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40224,
+        "name": "5342706/30401",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40209,
+        "name": "5341503/41001",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40215,
+        "name": "5342706/40201",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40218,
+        "name": "5342706/40601",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 41433,
+        "name": "5341503/31101",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40210,
+        "name": "5341503/41101",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40213,
+        "name": "5341503/41401",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40223,
+        "name": "5342706/30201",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40217,
+        "name": "5342706/40501",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40207,
+        "name": "5341503/40701",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40214,
+        "name": "5342703/40301",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40212,
+        "name": "5341503/41301",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40222,
+        "name": "5341503/31001",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40216,
+        "name": "5342706/40401",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40221,
+        "name": "5341503/30901",
+        "level": 2,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      },
+      {
+        "id": 40208,
+        "name": "5341503/40901",
+        "level": 1,
+        "type": "common",
+        "kind": 1,
+        "spec": "",
+        "year": 2024
+      }
+    ]
+  }
+}
