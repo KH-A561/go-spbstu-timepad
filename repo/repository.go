@@ -24,16 +24,17 @@ type Config struct {
 
 type Repository[E model.Entity] interface {
 	GetByID(ctx context.Context, id int) (*E, error)
-	GetAll(ctx context.Context) ([]*E, error)
+	GetByName(ctx context.Context, name string) (*E, error)
+	GetAll(ctx context.Context) (*[]E, error)
 }
 
-func New[E model.Entity](cfg *Config, dataProvider func() *[]E) (*inmem.MemoryRepository[E], error) {
+func New[E model.Entity](cfg *Config, dataProvider func() *[]E) (Repository[E], error) {
 	switch cfg.StorageType {
 	case StorageTypePostgres:
 		log.Println("Postgres storage is not implemented yet")
 		return nil, errors.New("postgres storage is not implemented yet")
 	case StorageTypeInmemory:
-		return inmem.NewMemoryRepository[E](dataProvider), nil
+		return NewMemoryRepository[E](dataProvider), nil
 	default:
 		return nil, errors.New("unknown storage type")
 	}
