@@ -1,11 +1,13 @@
 package model
 
 import (
+	"strings"
 	"time"
 )
 
 type Entity interface {
 	Faculty | Group
+	HasName(s string) bool
 	EntityName() string
 	GetId() int
 }
@@ -22,6 +24,11 @@ func (f Faculty) GetId() int {
 
 func (Faculty) EntityName() string {
 	return "Faculty"
+}
+
+func (f Faculty) HasName(s string) bool {
+	lower := strings.ToLower(s)
+	return strings.ToLower(f.Abbr) == lower || strings.ToLower(f.Name) == lower
 }
 
 type Group struct {
@@ -42,13 +49,21 @@ func (Group) EntityName() string {
 	return "Group"
 }
 
+func (g Group) HasName(s string) bool {
+	lower := strings.ToLower(s)
+	return strings.ToLower(g.Name) == lower
+}
+
 type Lesson struct {
-	FacultyId int    `json:"faculty_id"`
-	GroupIds  []int  `json:"group_ids"`
-	Subject   string `json:"subject"`
-	Type      string `json:"type"`
-	TeacherId string `json:"teacher_id"`
-	PlaceId   int    `json:"place_id"`
+	FacultyId int       `json:"faculty_id"`
+	GroupIds  []int     `json:"group_ids"`
+	TimeStart time.Time `json:"time_start"`
+	TimeEnd   time.Time `json:"time_end"`
+	Info      string    `json:"additional_info"`
+	Subject   string    `json:"subject"`
+	Type      int       `json:"type"`
+	TeacherId string    `json:"teacher_id"`
+	PlaceId   int       `json:"place_id"`
 }
 
 type Teacher struct {
@@ -63,6 +78,7 @@ type Place struct {
 
 type Day struct {
 	Date    time.Time `json:"date"`
+	Weekday int       `json:"weekday"`
 	Lessons []Lesson  `json:"lessons"`
 }
 

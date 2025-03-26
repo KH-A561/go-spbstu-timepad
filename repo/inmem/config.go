@@ -31,7 +31,7 @@ func NewDefault() *Config {
 
 	for k, v := range *facultiesWithGroups {
 		faculties = append(faculties, *k)
-		copy(groups, *v)
+		groups = append(groups, *v...)
 	}
 
 	FacInitFunc := DataInitFunc[model.Faculty]{}

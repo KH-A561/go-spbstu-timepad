@@ -1,4 +1,4 @@
-package inmem
+package repo
 
 import (
 	"context"
@@ -19,6 +19,16 @@ func NewMemoryRepository[E model.Entity](dataProvider func() *[]E) *MemoryReposi
 
 func (r *MemoryRepository[E]) GetByID(ctx context.Context, id int) (*E, error) {
 	index := slices.IndexFunc(*r.Elements, func(e E) bool { return e.GetId() == id })
+	elements := *r.Elements
+	if index != -1 {
+		return &(elements[index]), nil
+	} else {
+		return nil, errors.New("element not found")
+	}
+}
+
+func (r *MemoryRepository[E]) GetByName(ctx context.Context, name string) (*E, error) {
+	index := slices.IndexFunc(*r.Elements, func(e E) bool { return e.HasName(name) })
 	elements := *r.Elements
 	if index != -1 {
 		return &(elements[index]), nil

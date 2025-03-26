@@ -2,11 +2,14 @@ package main
 
 import (
 	"context"
+	"fmt"
+	"github.com/dgraph-io/ristretto/v2"
 	"github.com/joho/godotenv"
 	"github.com/mymmrac/telego"
 	"log"
-	"time"
-	"universityTimepad/calendar"
+	"os"
+	"universityTimepad/bot"
+	"universityTimepad/bot/view"
 	"universityTimepad/model"
 	"universityTimepad/repo"
 	"universityTimepad/repo/inmem"
@@ -26,62 +29,57 @@ var (
 	GroupRepo, _ = repo.New[model.Group](&Config, InmemConfig.GroupInitFunc.GetInitFunc())
 )
 
-// init is invoked before main()
 func init() {
-	// loads values from .env into the system
 	if err := godotenv.Load(); err != nil {
 		log.Fatal("No .env file found")
 	}
 }
 
 func main() {
+	ctx := context.Background()
+	token, _ := os.LookupEnv(tokenEnvName)
 
-	//ctx := context.Background()
-	//token, _ := os.LookupEnv(tokenEnvName)
-	//
-	//bot, err := telego.NewBot(token, telego.WithDefaultDebugLogger())
-	//if err != nil {
-	//	fmt.Println(err)
-	//	return
-	//}
-	//
-	//_, err = bot.GetMe(ctx)
-	//if err != nil {
-	//	fmt.Println("Error:", err)
-	//	return
-	//}
+	botRef, err := telego.NewBot(token, telego.WithDefaultDebugLogger())
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
 
-	//updateLoop(bot, &ctx)
-}
+	botKit := bot.New(botRef)
+	cache, err := ristretto.NewCache(&ristretto.Config[string, string]{
+		NumCounters: 10000,
+		MaxCost:     100000000,
+		BufferItems: 64,
+	})
 
-func updateLoop(bot *telego.Bot, ctx *context.Context) {
-	//updChan, err := bot.UpdatesViaLongPolling(*ctx, nil)
-	//if err != nil {
-	//	fmt.Println(err)
-	//	return
-	//}
-	//
-	//for upd := range updChan {
-	//	fmt.Println(upd)
-	//
-	//	if upd.Message != nil {
-	//		_, err := bot.CopyMessage(*ctx, &telego.CopyMessageParams{
-	//			ChatID:     telego.ChatID{ID: upd.Message.Chat.ID},
-	//			FromChatID: telego.ChatID{ID: upd.Message.Chat.ID},
-	//			MessageID:  upd.Message.MessageID,
-	//		})
-	//		if err != nil {
-	//			fmt.Println(err)
-	//		}
-	//	}
-	//}
+	if err != nil {
+		panic(err)
+	}
 
-	var fileSnatcher = calendar.DefaultFileSnatcher
-	var date, _ = time.Parse(calendar.DateFormat, "2025-3-25")
-	fileSnatcher.SnatchCalendar(
-		*ctx,
-		124,
-		40291,
-		date,
-	)
+	defer cache.Close()
+	cmdContext := &view.CmdContext{Cache: cache}
+
+	startCmd := &view.Cmd{CmdString: "start", ViewContext: cmdContext}
+	startCmd.ViewFunc = view.Start(startCmd)
+	botKit.RegisterCmdView(startCmd)
+
+	helpCmd := &view.Cmd{CmdString: "help", ViewContext: cmdContext}
+	helpCmd.ViewFunc = view.Help(helpCmd)
+	botKit.RegisterCmdView(helpCmd)
+
+	setFacultyCmd := &view.Cmd{CmdString: "setFaculty", ViewContext: cmdContext}
+	setFacultyCmd.ViewFunc = view.SetFaculty(setFacultyCmd, &FacRepo)
+	botKit.RegisterCmdView(setFacultyCmd)
+
+	setGroupCmd := &view.Cmd{CmdString: "setGroup", ViewContext: cmdContext}
+	setGroupCmd.ViewFunc = view.SetGroup(setGroupCmd, &GroupRepo)
+	botKit.RegisterCmdView(setGroupCmd)
+
+	getTimepadCmd := &view.Cmd{CmdString: "timepad", ViewContext: cmdContext}
+	getTimepadCmd.ViewFunc = view.GetTimepadView(getTimepadCmd, &FacRepo, &GroupRepo)
+	botKit.RegisterCmdView(getTimepadCmd)
+
+	if err := botKit.Run(ctx); err != nil {
+		log.Printf("[ERROR] failed to run botkit: %v", err)
+	}
 }
